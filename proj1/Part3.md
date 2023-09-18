@@ -1,38 +1,87 @@
-# Project 1
+In the world of software development, progress is a continual journey of creation, reflection, and improvement. Our experience in developing Project1's frontend and backend unveiled various challenges and shortcomings. I
 
-## Deliverables
+### Frontend Shortcomings
 
-Write 750 words in a mardown file describing what was hard about this process, how that pain could have been avoided and what practices you are committing to perform in project2 to avoid that pain.
-[Deliverables: Part 3 (Important)](https://github.com/txt/se23/blob/main/docs/project1.md#deliverables)
+#### 1. Heavy and Unorganized User Interface
 
-### Setup and Installation
+Our first challenge in frontend development was the heavy and disorganized user interface (UI), hindering user navigation and comprehension. 
 
-All code is installed and run on [Visual Studio Code](https://code.visualstudio.com/).
+For Project2, we plan to implement React Router for routing, dividing the application into separate pages for a more organized and user-friendly experience. This approach will streamline navigation and enhance user comprehension.
 
-- **Step 1:** We clone the repository to our local machine using the following git command.
+#### 2. Inconsistent Code Structure
 
-      git clone https://github.com/PvPatel-1001/Recipe_Recommender.git
+Inconsistent code structure in the frontend hindered maintenance and updates due to scattered components and pages.
 
-- **Step 2:** We install the node modules and the package dependencies of the client and the server. We open two separate terminals and type the following commands.
+To address this, we commit to creating a 'pages' folder in Project2, where each route/page will have its own JavaScript (or JSX) file. This structural change will improve code organization, making it easier to locate and update components.
 
-  > In the Server Terminal
+#### 3. Non-Uniform File Naming Convention
 
-      cd Code
-      cd backend
-      npm install
+Inconsistent file naming conventions caused confusion within the frontend codebase.
 
-  > In the Client Terminal
+To ensure consistency in Project2, we will adhere strictly to a standardized file naming convention. This will eliminate naming discrepancies and promote smoother collaboration.
 
-      cd Code
-      cd frontend
-      npm install
+#### 4. ES5 vs. ES6 Compatibility
 
-- **Step 3:** We now move on to starting the development server on our local machine.
+The mixture of ES5 and ES6 standards in our frontend codebase posed challenges in terms of code maintenance and collaboration.
 
-  > In the Server Terminal
+For Project2, we commit to using the ES6 standard exclusively to ensure consistency and compatibility among team members.
 
-      node index.js
+#### 5. Missing Iconography
 
-  > In the Client Terminal
+The absence of icons impacted user experience and UI aesthetics.
 
-      npm start
+In Project2, we plan to incorporate a UI library that includes icons to enhance the visual appeal and interactivity of our website.
+
+### Backend Challenges
+
+#### 1. Disorganized File System
+
+The disorganized backend file system, including routes, controllers, and middleware, hindered code maintenance.
+
+In Project2, we will restructure the backend file system to provide clear separation of routes, controllers, and middleware. This will enhance code readability and maintainability.
+
+#### 2. Inconsistent File Naming
+
+Inconsistent file naming conventions in the backend codebase caused delays and confusion.
+
+In Project2, we will establish a consistent file naming convention to streamline development and make file locations more intuitive.
+
+#### 3. Nodemailer Compatibility Issue
+
+Nodemailer compatibility issues with Gmail IDs necessitated the use of a company email ID.
+
+For Project2, we will choose a more robust email service or library that remains compatible with commonly used email providers, ensuring uninterrupted email functionality.
+
+#### 4. Insecure Password Handling
+
+Storing unencoded passwords in the database posed a significant security risk.
+
+To enhance security in Project2, we will implement password encryption before storing user credentials, safeguarding sensitive information.
+
+#### 5. Lack of Database Connection Separation
+
+Insufficient separation of database connection concerns in the backend led to potential code redundancy and maintenance challenges.
+
+In Project2, we will adopt a structured approach to database connection management, isolating it from other application logic for improved code structure and maintainability.
+
+#### 6. File Format Issues
+
+File format inconsistencies in the backend created compatibility problems.
+
+In Project2, we will validate and standardize file formats thoroughly to ensure compatibility across various systems and environments.
+
+#### 7. Security Vulnerability: Open Password
+
+Exposing passwords in plaintext within the code was a critical security flaw.
+
+#### 8. Improperly Coded Chai Tests
+
+Inadequate Chai tests compromised the reliability of our backend testing suite.
+
+To address this, we commit to improving testing practices in Project2 by investing more time in writing comprehensive and well-structured Chai tests.
+
+In Project2, we will implement best practices to secure sensitive information, ensuring that passwords are never stored in plain text within the codebase.
+
+### Conclusion
+
+In conclusion, our journey through the development of Project1's frontend and backend has provided valuable lessons and opportunities for improvement. By addressing these challenges and implementing our proposed solutions in Project2, we aim to enhance code quality, maintainability, and security while delivering a more user-friendly and efficient application. These lessons learned will serve as our guide as we embark on the next phase of our project.
