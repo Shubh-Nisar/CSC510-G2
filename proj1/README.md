@@ -10,8 +10,19 @@
 
   Scoring them according to the [project2 rubic](https://github.com/txt/se23/blob/main/docs/project2.md).
 
-  - [Project Rubric for Project [n]](https://github.com/Shubh-Nisar/CSC510-G2/blob/main/proj1/rubrics/n-Recipe-Recommender.xlsx)
-  - [Project Rubric for Project [C]](https://github.com/Shubh-Nisar/CSC510-G2/blob/main/proj1/rubrics/C-Teachers-PetBot.xlsx)
+  - [Project Rubric for Project [n]](https://github.com/Shubh-Nisar/CSC510-G2/blob/main/proj1/n-Recipe-Recommender.xlsx)
+  - [Project Rubric for Project [C]](https://github.com/Shubh-Nisar/CSC510-G2/blob/main/proj1/C-Teachers-PetBot.xlsx)
+  - [Project Rubric for Project [d]](https://github.com/Shubh-Nisar/CSC510-G2/blob/main/proj1/rubrics/d-ScheduleBot.xlsx)
+
+  <br>
+
+  | Project | Score |
+  | ------- | ----- |
+  | d       | 160   |
+  | G       | 153   |
+  | p       | 177   |
+  | n       | 182   |
+  | C       | 167   |
 
 - **Part2 (hard):** [Recipe Recommender System Run (2023)](https://youtu.be/jJ02-N86iCQ?si=RDyCrv-kNiy8jbx8)
 
