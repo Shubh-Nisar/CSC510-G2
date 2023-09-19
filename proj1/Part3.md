@@ -1,5 +1,7 @@
 Progress is a never-ending journey characterized by constant innovation, intelligent reflection, and unrelenting improvement in the dynamic world of software development. Our extensive analysis of both the front end and backend of Project1 exposed us to a variety of difficulties and provided us with insightful information about possible weaknesses.  
 
+> Recipe Recommender is a web application built using the MERN (MongoDB, Express.js, React.js, and Node.js) Stack. The main motto of the website is to allow users to add food recipes and ultimately get recipe suggestions based on the available ingredients.
+
 ### Frontend Shortcomings
 
 #### 1. Heavy and Unorganized User Interface
