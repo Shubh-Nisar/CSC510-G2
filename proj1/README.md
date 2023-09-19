@@ -13,6 +13,8 @@
   - [Project Rubric for Project [n]](https://github.com/Shubh-Nisar/CSC510-G2/blob/main/proj1/rubrics/n-Recipe-Recommender.xlsx)
   - [Project Rubric for Project [C]](https://github.com/Shubh-Nisar/CSC510-G2/blob/main/proj1/rubrics/C-Teachers-PetBot.xlsx)
   - [Project Rubric for Project [d]](https://github.com/Shubh-Nisar/CSC510-G2/blob/main/proj1/rubrics/d-ScheduleBot.xlsx)
+  - [Project Rubric for Project [G]](https://github.com/Shubh-Nisar/CSC510-G2/blob/main/proj1/rubrics/G-Simplii.xlsx)
+  - [Project Rubric for Project [G]](https://github.com/Shubh-Nisar/CSC510-G2/blob/main/proj1/rubrics/p-WolfTrack-3.0.xlsx)
 
   <br>
 
