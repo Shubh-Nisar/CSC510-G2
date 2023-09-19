@@ -1,17 +1,19 @@
-Progress is a never-ending journey characterized by constant innovation, intelligent reflection, and unrelenting improvement in the dynamic world of software development. Our extensive analysis of both the front end and backend of Project1 exposed us to a variety of difficulties and provided us with insightful information about possible weaknesses.  
+Progress is a never-ending journey characterized by constant innovation, intelligent reflection, and unrelenting improvement in the dynamic world of software development. Our extensive analysis of both the front end and backend of Project1 exposed us to a variety of difficulties and provided us with insightful information about possible weaknesses.
 
-> Recipe Recommender is a web application built using the MERN (MongoDB, Express.js, React.js, and Node.js) Stack. The main motto of the website is to allow users to add food recipes and ultimately get recipe suggestions based on the available ingredients.
+> Recipe Recommender is a web application built using the MERN (MongoDB, Express.js, React.js, and Node.js) Stack. The main motto of the website is to allow users to add food recipes and ultimately get recipe suggestions based on the available ingredients. [Project Zip](https://github.com/Shubh-Nisar/CSC510-G2/blob/main/proj1/Recipe_Recommender.zip)
 
 ### Frontend Shortcomings
 
 #### 1. Heavy and Unorganized User Interface
+
 <ul>
-  <li>Our first challenge in frontend development was the heavy and disorganized user interface (UI), hindering user navigation and comprehension.</li> 
+  <li>Our first challenge in frontend development was the heavy and disorganized user interface (UI), hindering user navigation and comprehension.</li>
 
   <li>For Project2, we plan to implement React Router for routing, dividing the application into separate pages for a more organized and user-friendly experience. This approach will streamline navigation and enhance user comprehension.</li>
 </ul>
 
 #### 2. Inconsistent Code Structure
+
 <ul>
   <li>Inconsistent code structure in the frontend hindered maintenance and updates due to scattered components and pages.</li>
 
@@ -19,6 +21,7 @@ Progress is a never-ending journey characterized by constant innovation, intelli
 </ul>
 
 #### 3. Non-Uniform File Naming Convention
+
 <ul>
   <li>Inconsistent file naming conventions caused confusion within the frontend codebase.</li>
 
@@ -26,6 +29,7 @@ Progress is a never-ending journey characterized by constant innovation, intelli
 </ul>
 
 #### 4. ES5 vs. ES6 Compatibility
+
 <ul>
   <li>The mixture of ES5 and ES6 standards in our frontend codebase posed challenges in terms of code maintenance and collaboration.</li>
 
@@ -33,6 +37,7 @@ Progress is a never-ending journey characterized by constant innovation, intelli
 </ul>
 
 #### 5. Missing Iconography
+
 <ul>
   <li>The absence of icons impacted user experience and User Interface aesthetics.</li>
 
@@ -42,6 +47,7 @@ Progress is a never-ending journey characterized by constant innovation, intelli
 ### Backend Challenges
 
 #### 1. Disorganized File System
+
 <ul>
   <li>The disorganized backend file system, including routes, controllers, and middleware, hindered code maintenance. It makes it difficult for new developers to understand the codebase.</li>
 
@@ -49,6 +55,7 @@ Progress is a never-ending journey characterized by constant innovation, intelli
 </ul>
 
 #### 2. Inconsistent File Naming
+
 <ul>
   <li>Inconsistent file naming conventions in the backend codebase caused delays and confusion.</li>
 
@@ -56,6 +63,7 @@ Progress is a never-ending journey characterized by constant innovation, intelli
 </ul>
 
 #### 3. Nodemailer Compatibility Issue
+
 <ul>
   <li>Nodemailer has deprecated the use of Gmail accounts for sending emails and now mandates the use of a company email address for this purpose.</li>
 
@@ -63,6 +71,7 @@ Progress is a never-ending journey characterized by constant innovation, intelli
 </ul>
 
 #### 4. Insecure Password Handling
+
 <ul>
   <li>Storing unencoded passwords in the database posed a significant security risk. Open passwords in a database are vulnerable to database injection attacks leading to loss of private user data. </li>
 
@@ -70,6 +79,7 @@ Progress is a never-ending journey characterized by constant innovation, intelli
 </ul>
 
 #### 5. Lack of Database Connection Separation
+
 <ul>
   <li>Insufficient separation of database connection concerns in the backend led to potential code redundancy and maintenance challenges.</li>
 
@@ -77,6 +87,7 @@ Progress is a never-ending journey characterized by constant innovation, intelli
 </ul>
 
 #### 6. File Format Issues
+
 <ul>
   <li>File format inconsistencies in the backend created compatibility problems.</li>
 
@@ -84,11 +95,13 @@ Progress is a never-ending journey characterized by constant innovation, intelli
 </ul>
 
 #### 7. Security Vulnerability: Open Password
+
 <ul>
 <li>Exposing passwords in plaintext within the code was a critical security flaw.</li>
 </ul>
 
 #### 8. Improperly Coded Chai Tests
+
 <ul>
   <li>Inadequate Chai tests compromised the reliability of our backend testing suite.</li>
 
