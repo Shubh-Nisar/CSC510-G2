@@ -1,4 +1,4 @@
-In the world of software development, progress is a continual journey of creation, reflection, and improvement. Our experience in developing Project1's frontend and backend unveiled various challenges and shortcomings. I
+In the world of software development, progress is a continual journey of creation, reflection, and improvement. Our experience in developing Project1's frontend and backend unveiled various challenges and shortcomings.
 
 ### Frontend Shortcomings
 
