@@ -41,7 +41,7 @@ Progress is a never-ending journey characterized by constant innovation, intelli
 
 #### 1. Disorganized File System
 <ul>
-  <li>The disorganized backend file system, including routes, controllers, and middleware, hindered code maintenance.</li>
+  <li>The disorganized backend file system, including routes, controllers, and middleware, hindered code maintenance. It makes it difficult for new developers to understand the codebase.</li>
 
   <li>In Project2, we will restructure the backend file system to provide clear separation of routes, controllers, and middleware. This will enhance code readability and maintainability.</li>
 </ul>
@@ -55,14 +55,14 @@ Progress is a never-ending journey characterized by constant innovation, intelli
 
 #### 3. Nodemailer Compatibility Issue
 <ul>
-  <li>Nodemailer compatibility issues with Gmail IDs necessitated the use of a company or an organization email ID.</li>
+  <li>Nodemailer has deprecated the use of Gmail accounts for sending emails and now mandates the use of a company email address for this purpose.</li>
 
   <li>For Project2, we will choose a more robust email service or library that remains compatible with commonly used email providers, ensuring uninterrupted email functionality.</li>
 </ul>
 
 #### 4. Insecure Password Handling
 <ul>
-  <li>Storing unencoded passwords in the database posed a significant security risk.</li>
+  <li>Storing unencoded passwords in the database posed a significant security risk. Open passwords in a database are vulnerable to database injection attacks leading to loss of private user data. </li>
 
   <li>To enhance security in Project2, we will implement password encryption before storing user credentials, safeguarding sensitive information.</li>
 </ul>
